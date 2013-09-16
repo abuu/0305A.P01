@@ -65,8 +65,8 @@
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.Items.AddRange(new object[] {
-            "CELSIUS ",
-            " KELVIN",
+            "CELSIUS",
+            "KELVIN",
             "FAHERNHEIT"});
             this.listBox1.Location = new System.Drawing.Point(12, 38);
             this.listBox1.Name = "listBox1";
@@ -77,7 +77,7 @@
             // 
             this.listBox2.FormattingEnabled = true;
             this.listBox2.Items.AddRange(new object[] {
-            "CELSIUS ",
+            "CELSIUS",
             "KELVIN",
             "FAHERNHEIT"});
             this.listBox2.Location = new System.Drawing.Point(182, 38);
